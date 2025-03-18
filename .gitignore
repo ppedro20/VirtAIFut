@@ -1,8 +1,2 @@
 # Ignore dataset folders
 datasets/
-
-# Ignore specific dataset file types
-*.csv
-*.json
-*.zip
-*.mp4
